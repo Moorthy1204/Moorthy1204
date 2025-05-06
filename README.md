@@ -41,7 +41,7 @@
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn – Moorthy](https://www.linkedin.com/in/moorthy12042002)
-- 📧 Email: Add your email here
+- 📧 Email: moorthy12042002@gmail.com
 
 ---
 
