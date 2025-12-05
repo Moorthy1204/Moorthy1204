@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/15/41/36/48/1000_F_1541364831_w3uASDbhoYGLu7PibdlMSsYKo34r44TQ.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/76/23/14/1000_F_376231431_ETTSp326ne8pURyKLjYOREXVPmyuOYxT.jpg)
 
 
 <h1 align="center">Hi 👋, I'm MOORTHY P</h1>
