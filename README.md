@@ -40,38 +40,77 @@
 </p>
 
 
+# 🚀 AWS & DevOps Projects Portfolio
+
+Welcome to my **AWS & DevOps Projects Repository!**
+
+This repository showcases my hands-on experience in DevOps, Cloud Computing, Infrastructure Automation, Containerization, CI/CD pipelines, and Monitoring.
+
 ## 📁 Repository Structure
 
-### 🔸 SQL Case Studies
+### 🔹 DevSecOps CI/CD Pipeline – Starbucks Clone
+- [Starbucks DevSecOps Project](./Starbucks-DevSecOps)
+- Built an end-to-end CI/CD pipeline using Jenkins and GitHub Webhooks.
+- Integrated SonarQube for code quality analysis.
+- Used Trivy for filesystem and Docker image security scanning.
+- Built and pushed Docker images to Docker Hub.
+- Deployed containerized applications on AWS EKS using Kubernetes.
+- Integrated Prometheus and Grafana for monitoring.
 
-- [Hospital](./SQL/Hospital) – Analyze hospital management and operations using SQL queries.
-- [Netflix](./SQL/Netfliex) – Perform entertainment data analysis from a streaming perspective.
-- [SuperMarket](./SQL/SuperMarket) – Explore sales, customer trends, and inventory management.
+### 🔹 End-to-End CI/CD Deployment – E-Commerce Application
+- [E-Commerce DevOps Project](./E-Commerce-CI-CD)
+- Created Jenkins pipelines for automated application deployment.
+- Containerized applications using Docker.
+- Created Kubernetes Deployment and Service manifests.
+- Implemented rolling updates for application deployment.
 
-### 🔸 Python Projects
+### 🔹 AWS Disaster Recovery Platform
+- [AWS Disaster Recovery Project](./AWS-Disaster-Recovery)
+- Designed a disaster recovery solution using AWS services.
+- Used Terraform for infrastructure provisioning.
+- Configured S3, EBS snapshots, RDS, Lambda, and CloudWatch.
+- Explored cross-region disaster recovery between Mumbai and Singapore.
+- Worked with backup and recovery strategies.
+---
 
-- [Data Cleaning](./Python/Data_Cleaning) – Jupyter Notebook showcasing effective data preprocessing techniques.
-- [Flight Price Prediction](./Python/Flight_Price_Prediction) – Machine learning model to predict airline ticket prices.
-- [Health Insurance](./Python/Health%20insurance) – Analyze insurance data and perform EDA and modeling.
-- [Zomato](./Python/Zomato) – Investigate restaurant data and delivery trends using EDA.
+## 🛠️ Technical Skills Demonstrated
+
+- **Cloud Platform:** AWS (EC2, S3, IAM, VPC, RDS, Lambda, EKS)
+- **Operating Systems:** Linux, Ubuntu
+- **CI/CD Tools:** Jenkins, GitHub Webhooks
+- **Containerization:** Docker, Docker Compose
+- **Orchestration:** Kubernetes
+- **Infrastructure as Code:** Terraform
+- **Configuration Management:** Ansible
+- **Code Quality:** SonarQube
+- **Security Scanning:** Trivy
+- **Monitoring:** Prometheus, Grafana
+- **Version Control:** Git, GitHub
+- **Scripting:** Python, Bash
+- **Database:** MySQL
 
 ---
 
-## 🚀 Skills Demonstrated
+## 📚 Key Areas of Learning
 
-- *Programming:* Python, SQL  
-- *Libraries:* Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- *Data Handling:* Data Cleaning, Preprocessing, Feature Engineering  
-- *Machine Learning:* Regression, Prediction Models  
-- *Tools:* Jupyter Notebook, GitHub
+- Building automated CI/CD pipelines.
+- Containerizing applications using Docker.
+- Deploying applications on Kubernetes.
+- Automating cloud infrastructure using Terraform.
+- Managing Linux servers and troubleshooting.
+- Implementing DevSecOps security practices.
+- Monitoring applications and infrastructure.
+- Understanding AWS cloud architecture and disaster recovery.
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect With Me
 
-- 🔗 [LinkedIn – https://www.linkedin.com/in/moorthy12042002
-- 📧 Email: moorthy12042002@gmail.com
+- **GitHub:** https://github.com/Moorthy1204
+- **LinkedIn:** https://www.linkedin.com/in/moorthy12042002
+- **Email:** moorthy12042002@gmail.com
 
+**Thank you for visiting my repository!**
 ---
 
 > This portfolio is a continuous work in progress, showcasing my learning journey and projects in Data Analysis and AWS Devops.
